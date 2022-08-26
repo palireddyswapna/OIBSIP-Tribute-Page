@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width-device-width8, initial-scale-1.0">
+    <link rel="stylesheet" href="styletribute.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Poppins:wght@600&family=Roboto:ital@0;1&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/2df3ef8759.js" crossorigin="anonymous"></script>
+    <title>Azim Premji Tribute Page</title>
+</head>
+<body id="main">
+    <section class="hero-section">
+        <div class="hero-title">
+            <h1 id="title">Azim Premji : <br> "Azim Premji is an Indian businessman,investor, engineer, and philanthropist <br> He is the chairman of Wipro Limited"</h1>
+            <p class="Azim Premji years">1945 - still alive</p>
+        </div>
+
+        <div id="img-div" class="hero-image">
+            <img src="https://img.mensxp.com/media/photogallery/2013/Nov/33135_1385027844.jpg">
+            <figcaption id="img-caption" style="display: none;">Azim Premji</figcaption>
+        </div>
+    </section>
+
+    <section id="tribute-info">
+        <h2>who is Azim Premji?</h2>
+        <P>Azim Hashim Premji (born 24 July 1945) is an Indian businessman, investor, engineer, and philanthropist, who was the chairman of Wipro Limited. Premji remains a non-executive member of the board and founder chairman. He is informally known as the Czar of the Indian IT Industry.</P>
+    </section>
+
+    <section class="timeline">
+        <h2>Azim Premji Timeline</h2>
+        <div class="timeline-list">
+            <ul>
+                <li>
+                    <h3>1945</h3>
+                    <p class="list-paragraph">Azim Premji's father,Muhammad Hashm Premji established Western Indian Vegetable Products Ltd.in Amalner,Maharashtra.</p>
+                </li>
+                <li>
+                    <h3>1966</h3>
+                    <p class="list-paragraph">In 1966, Azim Premji after his father's death returned to India from the USA and took the charge of Wipro. The Western Indian Vegetable Products company was later diversified by Azim Premji into the company manufacturing bakery fats, ethnic ingredient based toiletries, hair care soaps, baby toiletries, lighting products, and hydraulic cylinders.</p>
+                </li>
+                <li>
+                    <h3>1980</h3>
+                    <p class="list-paragraph">In the 1980s, after the expulsion of IBM from India, recognized the importance of the IT industry and changed his company name to Wipro. He entered into IT industry and manufactured minicomputers under technological collaboration with an American company Sentinel Computer Corporation.</p>
+                </li>
+                <li>
+                    <h3>2011</h3>
+                    <p class="list-paragraph"> In the year 2011, Azim Premji established a non-profit organization known as Azim Premji Foundation. In December 2010, Azim Premji pledged to donate 2 billion USD for improving the conditions of school education in India. For this, Azim Premji transferred 213 million equity shares of Wipro Ltd. held by him to the  Azim Premji Foundation. This is one of the largest donations in India.</p>
+                </li>
+                <li>
+                    <h3>April 2013</h3>
+                    <p class="list-paragraph">In April 2013, Azim Premji stated that he has already given more than 25% of his wealth to charity.</p>
+                </li>
+                <li>
+                    <h3>July 2015</h3>
+                    <p class="list-paragraph">In July 2015, Azim Premji gave away 18% of his stake in Wipro totalling his contribution so far to 39%.</p>
+                </li>
+                <li>
+                    <h3>March 2019</h3>
+                    <p class="list-paragraph"> In March 2019, Azim Premji pledged 34% shares of Wipro held by him to Azim Premji Foundation. The Azim Premji Foundation has warned the citizens against the fake messages claiming to be the foundation and requesting donations for the trust.</p>
+                </li>
+                <li>
+                    <h3>November 11,2020</h3>
+                    <p class="list-paragraph">On November 11, 2020,  Azim Premji tops the seventh edition of EdelGive Hurun India Philanthropy List 2020 with a donation of ₹7,904 crores.</p>
+                </li>
+                <li>
+                    <h3>2017</h3>
+                    <p class="list-paragraph"> In 2017, Azim Premji ranked 9th in India's most powerful people of 2017 list by India Today magazine.</p>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="Azim Premji-quotes">
+        <div class="AP.quotes">
+            <p>"A girl child who is even a little bit educated is more conscious of family planning, health care and, in turn, her children's own education."</p>
+            <cite>Azim Premji</cite>
+        </div>
+    </section>
+</body>
+
+<footer>
+    <p>@ 2022 Swapna - All rights reserved. For more information about Azim Premji,  visit<a id="tribute-link" target="_blank" href="https://id.wikipedia.org/wiki/Azim_Premji">Wikipedia</a></p>
+</footer>
+</html>
